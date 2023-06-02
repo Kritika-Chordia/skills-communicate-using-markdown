@@ -9,3 +9,6 @@ int a=10;
 int b=15;
 cout<<a+b<<endl;
 ```
+- [x] Courses
+- [x] Coding
+- [ ] Contest
